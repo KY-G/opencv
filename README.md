@@ -22,3 +22,5 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 * Include tests and documentation;
 * Clean up "oops" commits before submitting;
 * Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide).
+
+查看相关通用USB相机参数设置代码，路径：opencv/modules/videoio/include/opencv2/videoio.hpp
